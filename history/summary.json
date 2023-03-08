@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 139
+      "2023-03-08": 151
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 138
+      "2023-03-08": 151
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 1306,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2023-03-08": 138
+      "2023-03-08": 151
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 138
+      "2023-03-08": 151
     }
   },
   {
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 138
+      "2023-03-08": 151
     }
   },
   {
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 138
+      "2023-03-08": 150
     }
   },
   {
@@ -226,7 +226,7 @@
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2023-03-08": 138
+      "2023-03-08": 150
     }
   },
   {
@@ -246,7 +246,7 @@
     "timeMonth": 1257,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -392,7 +392,7 @@
     "timeMonth": 3201,
     "timeYear": 3201,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -468,7 +468,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -634,7 +634,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -654,7 +654,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -692,7 +692,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -712,7 +712,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 150
     }
   },
   {
@@ -732,7 +732,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 149
     }
   },
   {
@@ -824,7 +824,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 137
+      "2023-03-08": 149
     }
   },
   {
@@ -916,7 +916,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 136
+      "2023-03-08": 149
     }
   },
   {
@@ -1026,7 +1026,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 136
+      "2023-03-08": 149
     }
   },
   {
@@ -1106,19 +1106,19 @@
     "url": "https://lineadirecta.morelia.gob.mx/",
     "icon": "https://icons.duckduckgo.com/ip3/lineadirecta.morelia.gob.mx.ico",
     "slug": "lineadirecta",
-    "status": "down",
-    "uptime": "84.20%",
-    "uptimeDay": "84.20%",
-    "uptimeWeek": "84.20%",
-    "uptimeMonth": "84.20%",
-    "uptimeYear": "84.20%",
-    "time": 474,
-    "timeDay": 474,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "status": "up",
+    "uptime": "77.31%",
+    "uptimeDay": "77.31%",
+    "uptimeWeek": "77.31%",
+    "uptimeMonth": "77.31%",
+    "uptimeYear": "77.31%",
+    "time": 431,
+    "timeDay": 431,
+    "timeWeek": 431,
+    "timeMonth": 431,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2023-03-08": 21
+      "2023-03-08": 34
     }
   },
   {
@@ -1192,7 +1192,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 178
+      "2023-03-08": 191
     }
   },
   {
@@ -1266,7 +1266,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 136
+      "2023-03-08": 149
     }
   },
   {
@@ -1412,7 +1412,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-08": 272
+      "2023-03-08": 296
     }
   },
   {
