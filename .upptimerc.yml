@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: OAMAP
-    ur: https://oamap.morelia.gob.mx
+    url: https://oamap.morelia.gob.mx
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -30,3 +30,4 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
