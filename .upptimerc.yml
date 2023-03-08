@@ -3,160 +3,162 @@ owner: CesarIvanSolis # Your GitHub organization or username, where this reposit
 repo: Upptime # The name of this repository
 
 sites:
-- name: ctrlDoctosContra
-    url: http://172.20.36.53/ctrlDoctosContra/Publico/Homepage.aspx
-- name: sisarh2018
-    url: http://172.20.6.248/sisarh2018/
-- name: caan
-    url: http://caan.morelia.gob.mx/autenticar
-- name: cartoweb    
-    url: http://cartoweb.morelia.gob.mx
-- name: catalogooficial
-    url: http://catalogooficial.morelia.gob.mx
-- name: catim
-    url: http://catim.morelia.gob.mx/
-- name: condonaciones
-    url: http://condonaciones.morelia.gob.mx/bootstrap/modelos/logs/
-- name: condonaciones siscaing
-    url: http://condonaciones.morelia.gob.mx/loginUserSiscaing.php
-- name: creditos
-    url: http://creditos.morelia.gob.mx/autenticar
-- name: csi
-    url: http://csi.morelia.gob.mx/Publico/homepage.aspx
-- name: geopai
-    url: http://geopai.morelia.gob.mx/
-- name: gestion cartografia
-    url: http://gestion.cartografia.morelia.gob.mx/
-- name: git
-    url: http://git.morelia.gob.mx/produccion
-- name: morelos
-    url: http://morelos.morelia.gob.mx/exekaja/IngresosOrdenes/
-- name: patrimonio
-    url: http://patrimonio.morelia.gob.mx/
-- name: quejanet
-    url: http://quejanet.morelia.gob.mx/
-- name: quejanet acceso
-    url: http://quejanet.morelia.gob.mx/ACCESO.ASPX
-- name: scu
-    url: http://scu.morelia.gob.mx
-- name: servicios
-    url: https://servicios.morelia.gob.mx/webservice/obtener_token_sesion
-- name: servicios factura
-    url: http://servicios.morelia.gob.mx/Factura33
-- name: servicios code
-    url: http://servicios.morelia.gob.mx/phpqrcode
-- name: sicve
-    url: http://sicve.morelia.gob.mx/
-- name: sisac
-    url: http://sisac.morelia.gob.mx/sisac
-- name: sisac contabilidad
-    url: http://sisac.morelia.gob.mx/sisam/contabilidad.html
-- name: sisam recursoshumanos
-    url: http://sisac.morelia.gob.mx/sisam/recursoshumanos.html
-- name: sisam 2018
-    url: http://sisam.morelia.gob.mx/SISAM2018
-- name: sisam 2019
-    url: http://sisam.morelia.gob.mx/SISAM2019
-- name: sisam 2020
-    url: http://sisam.morelia.gob.mx/SISAM2020
-- name: sisam 2021
-    url: http://sisam.morelia.gob.mx/SISAM2021-SEP-DIC
-- name: sisam 2022
-    url: http://sisam.morelia.gob.mx/SISAM2022
-- name: sisam 2023
-    url: http://sisam.morelia.gob.mx/SISAM2023
-- name: sisam siop
-    url: http://sisam.morelia.gob.mx/SISAM2023/SIOP/CASVI.jsp
-- name: timbrado
-    url: http://timbrado.morelia.gob.mx/vistas/login.aspx
-- name: tramites
-    url: http://tramites.morelia.gob.mx/
-- name: wscaja
-    url: http://wscaja.morelia.gob.mx/Logincajanetcontroller/Loadform/?datosjson=1
-- name: wsk
-    url: http://wsk.morelia.gob.mx/monitoreo/login/index.php
-- name: kiosco
-    url: http://ws-kiosco.morelia.gob.mx/
-- name: bienesmuebles
-    url: https://bienesmuebles.morelia.gob.mx/
-- name: bolsadetrabajo
-    url: https://bolsadetrabajo.morelia.gob.mx/
-- name: cabildojuvenil
-    url: https://cabildojuvenil.morelia.gob.mx/
-- name: callescols
-    url: https://callescols.morelia.gob.mx/
-- name: casvi
-    url: https://casvi.morelia.gob.mx/
-- name: ccpw
-    url: https://ccpw.morelia.gob.mx/
-- name: ciedim
-    url: https://ciedim.morelia.gob.mx/
-- name: consejociudadano
-    url: https://consejociudadano.morelia.gob.mx/
-- name: contraloria
-    url: https://contraloria.morelia.gob.mx/
-- name: corralon
-    url: https://corralon.morelia.gob.mx/
-- name: ctrldoctosobras
-    url: https://ctrldoctosobras.morelia.gob.mx/Publico/homepage.aspx
-- name: declaraciones
-    url: https://declaraciones.morelia.gob.mx
-- name: dro
-    url: https://dro.morelia.gob.mx/
-- name: ofuscador
-    url: https://dticws.morelia.gob.mx/ofuscador
-- name: progamador tareas
-    url: https://dticws.morelia.gob.mx/ProgramadorTareas
-- name: educacionambiental
-    url: https://educacionambiental.morelia.gob.mx/
-- name: ciudadanos
-    url: https://ciudadanos.morelia.gob.mx
-- name: gestion 2
-    url: https://gestion.morelia.gob.mx/
-- name: immujeris
-    url: https://immujeris.morelia.gob.mx/
-- name: internetpublico
-    url: https://internetpublico.morelia.gob.mx/
-- name: licfunweb
-    url: https://licfunweb.morelia.gob.mx/
-- name: lineadirecta
-    url: https://lineadirecta.morelia.gob.mx/
-- name: mejoraregulatoria
-    url: https://mejoraregulatoria.morelia.gob.mx/
-- name: meritojuvenil
-    url: https://meritojuvenil.morelia.gob.mx/
-- name: movil
-    url: https://movil.morelia.gob.mx/predial/login.php
-- name: oamap
-    url: https://oamap.morelia.gob.mx/
-- name: obraspublicas
-    url: https://obraspublicas.morelia.gob.mx/admonpai/login.php
-- name: obraspublicas contratistas
-    url: https://obraspublicas.morelia.gob.mx/contratistas
-- name: obrasyacciones 
-    url: https://obrasyacciones.morelia.gob.mx/
-- name: pagostramites
-    url: https://pagostramites.morelia.gob.mx/login.php
-- name: reportes2
-    url: https://reportes2.morelia.gob.mx/dotask.aspx
-- name: scu ctrlusuarios
-    url: https://scu.morelia.gob.mx/CtrlUsuarios/loginGral?token=&sistema=13&au=http://sisop.morelia.gob.mx
-- name: serviciosmorelos repors
-    url: https://serviciosmorelos.morelia.gob.mx/Reports/
-- name: serviciosmorelos reports
-    url: https://serviciosmorelos.morelia.gob.mx/reports/do.php
-- name: transito
-    url: https://transito.morelia.gob.mx/
-- name: transitoh
-    url: https://transitoh.morelia.gob.mx/
-- name: transparenciaproactiva
-    url: https://transparenciaproactiva.morelia.gob.mx/
-- name: wsfacturav33
-    url: https://wsfacturav33.morelia.gob.mx/generaTimbrado.aspx
-- name: morelia
-    url: https://www.morelia.gob.mx/
-- name: policiamorelia
-    url: https://www.policiamorelia.gob.mx/
+    - name: Google
+      url: https://www.google.com
+    - name: ctrlDoctosContra
+      url: http://172.20.36.53/ctrlDoctosContra/Publico/Homepage.aspx
+    - name: sisarh2018
+      url: http://172.20.6.248/sisarh2018/
+    - name: caan
+      url: http://caan.morelia.gob.mx/autenticar
+    - name: cartoweb    
+      url: http://cartoweb.morelia.gob.mx
+    - name: catalogooficial
+      url: http://catalogooficial.morelia.gob.mx
+    - name: catim
+      url: http://catim.morelia.gob.mx/
+    - name: condonaciones
+      url: http://condonaciones.morelia.gob.mx/bootstrap/modelos/logs/
+    - name: condonaciones siscaing
+      url: http://condonaciones.morelia.gob.mx/loginUserSiscaing.php
+    - name: creditos
+      url: http://creditos.morelia.gob.mx/autenticar
+    - name: csi
+      url: http://csi.morelia.gob.mx/Publico/homepage.aspx
+    - name: geopai
+      url: http://geopai.morelia.gob.mx/
+    - name: gestion cartografia
+      url: http://gestion.cartografia.morelia.gob.mx/
+    - name: git
+      url: http://git.morelia.gob.mx/produccion
+    - name: morelos
+      url: http://morelos.morelia.gob.mx/exekaja/IngresosOrdenes/
+    - name: patrimonio
+      url: http://patrimonio.morelia.gob.mx/
+    - name: quejanet
+      url: http://quejanet.morelia.gob.mx/
+    - name: quejanet acceso
+      url: http://quejanet.morelia.gob.mx/ACCESO.ASPX
+    - name: scu
+      url: http://scu.morelia.gob.mx
+    - name: servicios
+      url: https://servicios.morelia.gob.mx/webservice/obtener_token_sesion
+    - name: servicios factura
+      url: http://servicios.morelia.gob.mx/Factura33
+    - name: servicios code
+      url: http://servicios.morelia.gob.mx/phpqrcode
+    - name: sicve
+      url: http://sicve.morelia.gob.mx/
+    - name: sisac
+      url: http://sisac.morelia.gob.mx/sisac
+    - name: sisac contabilidad
+      url: http://sisac.morelia.gob.mx/sisam/contabilidad.html
+    - name: sisam recursoshumanos
+      url: http://sisac.morelia.gob.mx/sisam/recursoshumanos.html
+    - name: sisam 2018
+      url: http://sisam.morelia.gob.mx/SISAM2018
+    - name: sisam 2019
+      url: http://sisam.morelia.gob.mx/SISAM2019
+    - name: sisam 2020
+      url: http://sisam.morelia.gob.mx/SISAM2020
+    - name: sisam 2021
+      url: http://sisam.morelia.gob.mx/SISAM2021-SEP-DIC
+    - name: sisam 2022
+      url: http://sisam.morelia.gob.mx/SISAM2022
+    - name: sisam 2023
+      url: http://sisam.morelia.gob.mx/SISAM2023
+    - name: sisam siop
+      url: http://sisam.morelia.gob.mx/SISAM2023/SIOP/CASVI.jsp
+    - name: timbrado
+      url: http://timbrado.morelia.gob.mx/vistas/login.aspx
+    - name: tramites
+      url: http://tramites.morelia.gob.mx/
+    - name: wscaja
+      url: http://wscaja.morelia.gob.mx/Logincajanetcontroller/Loadform/?datosjson=1
+    - name: wsk
+      url: http://wsk.morelia.gob.mx/monitoreo/login/index.php
+    - name: kiosco
+      url: http://ws-kiosco.morelia.gob.mx/
+    - name: bienesmuebles
+      url: https://bienesmuebles.morelia.gob.mx/
+    - name: bolsadetrabajo
+      url: https://bolsadetrabajo.morelia.gob.mx/
+    - name: cabildojuvenil
+      url: https://cabildojuvenil.morelia.gob.mx/
+    - name: callescols
+      url: https://callescols.morelia.gob.mx/
+    - name: casvi
+      url: https://casvi.morelia.gob.mx/
+    - name: ccpw
+      url: https://ccpw.morelia.gob.mx/
+    - name: ciedim
+      url: https://ciedim.morelia.gob.mx/
+    - name: consejociudadano
+      url: https://consejociudadano.morelia.gob.mx/
+    - name: contraloria
+      url: https://contraloria.morelia.gob.mx/
+    - name: corralon
+      url: https://corralon.morelia.gob.mx/
+    - name: ctrldoctosobras
+      url: https://ctrldoctosobras.morelia.gob.mx/Publico/homepage.aspx
+    - name: declaraciones
+      url: https://declaraciones.morelia.gob.mx
+    - name: dro
+      url: https://dro.morelia.gob.mx/
+    - name: ofuscador
+      url: https://dticws.morelia.gob.mx/ofuscador
+    - name: progamador tareas
+      url: https://dticws.morelia.gob.mx/ProgramadorTareas
+    - name: educacionambiental
+      url: https://educacionambiental.morelia.gob.mx/
+    - name: ciudadanos
+      url: https://ciudadanos.morelia.gob.mx
+    - name: gestion 2
+      url: https://gestion.morelia.gob.mx/
+    - name: immujeris
+      url: https://immujeris.morelia.gob.mx/
+    - name: internetpublico
+      url: https://internetpublico.morelia.gob.mx/
+    - name: licfunweb
+      url: https://licfunweb.morelia.gob.mx/
+    - name: lineadirecta
+      url: https://lineadirecta.morelia.gob.mx/
+    - name: mejoraregulatoria
+      url: https://mejoraregulatoria.morelia.gob.mx/
+    - name: meritojuvenil
+      url: https://meritojuvenil.morelia.gob.mx/
+    - name: movil
+      url: https://movil.morelia.gob.mx/predial/login.php
+    - name: oamap
+      url: https://oamap.morelia.gob.mx/
+    - name: obraspublicas
+      url: https://obraspublicas.morelia.gob.mx/admonpai/login.php
+    - name: obraspublicas contratistas
+      url: https://obraspublicas.morelia.gob.mx/contratistas
+    - name: obrasyacciones 
+      url: https://obrasyacciones.morelia.gob.mx/
+    - name: pagostramites
+      url: https://pagostramites.morelia.gob.mx/login.php
+    - name: reportes2
+      url: https://reportes2.morelia.gob.mx/dotask.aspx
+    - name: scu ctrlusuarios
+      url: https://scu.morelia.gob.mx/CtrlUsuarios/loginGral?token=&sistema=13&au=http://sisop.morelia.gob.mx
+    - name: serviciosmorelos repors
+      url: https://serviciosmorelos.morelia.gob.mx/Reports/
+    - name: serviciosmorelos reports
+      url: https://serviciosmorelos.morelia.gob.mx/reports/do.php
+    - name: transito
+      url: https://transito.morelia.gob.mx/
+    - name: transitoh
+      url: https://transitoh.morelia.gob.mx/
+    - name: transparenciaproactiva
+      url: https://transparenciaproactiva.morelia.gob.mx/
+    - name: wsfacturav33
+      url: https://wsfacturav33.morelia.gob.mx/generaTimbrado.aspx
+    - name: morelia
+      url: https://www.morelia.gob.mx/
+    - name: policiamorelia
+      url: https://www.policiamorelia.gob.mx/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
