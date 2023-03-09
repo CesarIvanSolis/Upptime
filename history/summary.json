@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 282
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 282
     }
   },
@@ -130,7 +130,7 @@
     "timeMonth": 811,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 281
     }
   },
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 281
     }
   },
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 281
     }
   },
@@ -211,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 281
     }
   },
@@ -232,7 +232,7 @@
     "timeMonth": 1902,
     "timeYear": 1902,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 281
     }
   },
@@ -253,7 +253,7 @@
     "timeMonth": 769,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 281
     }
   },
@@ -400,7 +400,7 @@
     "timeMonth": 5342,
     "timeYear": 5342,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 397,
       "2023-03-08": 281
     }
   },
@@ -409,18 +409,20 @@
     "url": "http://servicios.morelia.gob.mx/phpqrcode",
     "icon": "https://icons.duckduckgo.com/ip3/servicios.morelia.gob.mx.ico",
     "slug": "servicios-code",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 117,
     "timeDay": 117,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-09": 2
+    }
   },
   {
     "name": "sicve",
@@ -457,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 281
     }
   },
@@ -478,7 +480,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -499,7 +501,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -508,18 +510,20 @@
     "url": "http://sisam.morelia.gob.mx/SISAM2018",
     "icon": "https://icons.duckduckgo.com/ip3/sisam.morelia.gob.mx.ico",
     "slug": "sisam-2018",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 3300,
     "timeDay": 3300,
     "timeWeek": 3300,
     "timeMonth": 3300,
     "timeYear": 3300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-09": 2
+    }
   },
   {
     "name": "sisam 2019",
@@ -646,7 +650,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -667,7 +671,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -706,7 +710,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -727,7 +731,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -748,7 +752,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -841,7 +845,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -934,7 +938,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 280
     }
   },
@@ -1045,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 279
     }
   },
@@ -1127,11 +1131,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lineadirecta.morelia.gob.mx.ico",
     "slug": "lineadirecta",
     "status": "up",
-    "uptime": "93.44%",
-    "uptimeDay": "93.44%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "93.44%",
+    "uptime": "96.89%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "96.89%",
     "time": 906,
     "timeDay": 906,
     "timeWeek": 906,
@@ -1201,18 +1205,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oamap.morelia.gob.mx.ico",
     "slug": "oamap",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 321
     }
   },
@@ -1287,7 +1291,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 42,
+      "2023-03-09": 398,
       "2023-03-08": 279
     }
   },
@@ -1434,7 +1438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 84,
+      "2023-03-09": 796,
       "2023-03-08": 558
     }
   },
