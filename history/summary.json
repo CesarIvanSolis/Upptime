@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 481,
+      "2023-03-09": 512,
       "2023-03-08": 282
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 481,
+      "2023-03-09": 512,
       "2023-03-08": 282
     }
   },
@@ -130,7 +130,7 @@
     "timeMonth": 811,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 281
     }
   },
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 281
     }
   },
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 281
     }
   },
@@ -211,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 281
     }
   },
@@ -232,7 +232,7 @@
     "timeMonth": 1902,
     "timeYear": 1902,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 281
     }
   },
@@ -253,7 +253,7 @@
     "timeMonth": 769,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 281
     }
   },
@@ -400,7 +400,7 @@
     "timeMonth": 5342,
     "timeYear": 5342,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 281
     }
   },
@@ -457,7 +457,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 281
     }
   },
@@ -478,7 +478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -499,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -508,19 +508,19 @@
     "url": "http://sisam.morelia.gob.mx/SISAM2018",
     "icon": "https://icons.duckduckgo.com/ip3/sisam.morelia.gob.mx.ico",
     "slug": "sisam-2018",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 2193,
-    "timeDay": 2193,
-    "timeWeek": 2193,
-    "timeMonth": 2193,
-    "timeYear": 2193,
+    "status": "up",
+    "uptime": "96.19%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
+    "time": 2029,
+    "timeDay": 2029,
+    "timeWeek": 2029,
+    "timeMonth": 2029,
+    "timeYear": 2029,
     "dailyMinutesDown": {
-      "2023-03-09": 1
+      "2023-03-09": 30
     }
   },
   {
@@ -528,19 +528,19 @@
     "url": "http://sisam.morelia.gob.mx/SISAM2019",
     "icon": "https://icons.duckduckgo.com/ip3/sisam.morelia.gob.mx.ico",
     "slug": "sisam-2019",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "status": "up",
+    "uptime": "96.19%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-03-09": 1
+      "2023-03-09": 30
     }
   },
   {
@@ -548,19 +548,19 @@
     "url": "http://sisam.morelia.gob.mx/SISAM2020",
     "icon": "https://icons.duckduckgo.com/ip3/sisam.morelia.gob.mx.ico",
     "slug": "sisam-2020",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "status": "up",
+    "uptime": "96.19%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
+    "time": 469,
+    "timeDay": 469,
+    "timeWeek": 469,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {
-      "2023-03-09": 1
+      "2023-03-09": 30
     }
   },
   {
@@ -568,19 +568,19 @@
     "url": "http://sisam.morelia.gob.mx/SISAM2021-SEP-DIC",
     "icon": "https://icons.duckduckgo.com/ip3/sisam.morelia.gob.mx.ico",
     "slug": "sisam-2021",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 194,
-    "timeDay": 194,
-    "timeWeek": 194,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "status": "up",
+    "uptime": "96.19%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-03-09": 1
+      "2023-03-09": 30
     }
   },
   {
@@ -588,19 +588,19 @@
     "url": "http://sisam.morelia.gob.mx/SISAM2022",
     "icon": "https://icons.duckduckgo.com/ip3/sisam.morelia.gob.mx.ico",
     "slug": "sisam-2022",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 192,
-    "timeDay": 192,
-    "timeWeek": 192,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "status": "up",
+    "uptime": "96.18%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.18%",
+    "uptimeYear": "96.18%",
+    "time": 468,
+    "timeDay": 468,
+    "timeWeek": 468,
+    "timeMonth": 468,
+    "timeYear": 468,
     "dailyMinutesDown": {
-      "2023-03-09": 1
+      "2023-03-09": 30
     }
   },
   {
@@ -608,19 +608,19 @@
     "url": "http://sisam.morelia.gob.mx/SISAM2023",
     "icon": "https://icons.duckduckgo.com/ip3/sisam.morelia.gob.mx.ico",
     "slug": "sisam-2023",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "status": "up",
+    "uptime": "96.18%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.18%",
+    "uptimeYear": "96.18%",
+    "time": 472,
+    "timeDay": 472,
+    "timeWeek": 472,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2023-03-09": 1
+      "2023-03-09": 30
     }
   },
   {
@@ -628,19 +628,19 @@
     "url": "http://sisam.morelia.gob.mx/SISAM2023/SIOP/CASVI.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/sisam.morelia.gob.mx.ico",
     "slug": "sisam-siop",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "status": "up",
+    "uptime": "96.18%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "96.18%",
+    "uptimeYear": "96.18%",
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-03-09": 1
+      "2023-03-09": 30
     }
   },
   {
@@ -660,7 +660,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -681,7 +681,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -720,7 +720,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -741,7 +741,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -762,7 +762,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -855,7 +855,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -948,7 +948,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 280
     }
   },
@@ -1059,7 +1059,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 279
     }
   },
@@ -1141,11 +1141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lineadirecta.morelia.gob.mx.ico",
     "slug": "lineadirecta",
     "status": "up",
-    "uptime": "97.23%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "97.23%",
+    "uptime": "97.34%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 906,
     "timeDay": 906,
     "timeWeek": 906,
@@ -1226,7 +1226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 321
     }
   },
@@ -1301,7 +1301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 482,
+      "2023-03-09": 512,
       "2023-03-08": 279
     }
   },
@@ -1448,7 +1448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-09": 964,
+      "2023-03-09": 1024,
       "2023-03-08": 558
     }
   },
