@@ -1,7 +1,7 @@
 url: https://servicios.morelia.gob.mx/webservice/obtener_token_sesion
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-13T13:12:09.698Z
+status: up
+code: 200
+responseTime: 730
+lastUpdated: 2023-03-13T15:21:05.857Z
 startTime: Wed Mar 08 2023 19:20:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
