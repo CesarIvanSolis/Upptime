@@ -1,7 +1,7 @@
 url: https://obraspublicas.morelia.gob.mx/admonpai/login.php
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-13T12:46:20.026Z
+status: up
+code: 200
+responseTime: 509
+lastUpdated: 2023-03-13T15:00:45.657Z
 startTime: Wed Mar 08 2023 19:20:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
